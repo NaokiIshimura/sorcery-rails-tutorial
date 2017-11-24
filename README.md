@@ -1,7 +1,9 @@
 # sorcery-rails-tutorial
 
-[Home · NoamB/sorcery Wiki](https://github.com/NoamB/sorcery/wiki)
+## sorcery
+- [GitHub](https://github.com/Sorcery/sorcery)
+- [Wiki](https://github.com/NoamB/sorcery/wiki)
 
 ## Rails Tutorial
 
-[Simple Password Authentication · NoamB/sorcery Wiki](https://github.com/NoamB/sorcery/wiki/Simple-Password-Authentication)
+- [Simple Password Authentication](https://github.com/NoamB/sorcery/wiki/Simple-Password-Authentication)
