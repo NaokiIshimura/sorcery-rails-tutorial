@@ -8,3 +8,4 @@
 ## branch
 
 - [Simple\-Password\-Authentication](https://github.com/NaokiIshimura/sorcery-rails-tutorial/tree/Simple-Password-Authentication)
+- [Remember\-Me](https://github.com/NaokiIshimura/sorcery-rails-tutorial/tree/Remember-Me)
