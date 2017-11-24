@@ -6,4 +6,4 @@
 
 ## Rails Tutorial
 
-- [Simple Password Authentication](https://github.com/NoamB/sorcery/wiki/Simple-Password-Authentication)
+- [Remember Me](https://github.com/NoamB/sorcery/wiki/Remember-Me)
